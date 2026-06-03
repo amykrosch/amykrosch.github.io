@@ -16,15 +16,15 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Lab"
-    url: /portfolio/
         
    # - title: "Blog Posts"
    #   url: /year-archive/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Lab"
+    url: /portfolio/
     
   # - title: "CV"
   #   url: /cv-json/
